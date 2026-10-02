@@ -1,0 +1,1630 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voices": {
+    "vet": "Achernar",
+    "boy-genki": "Puck",
+    "boy-yasashi": "Achird",
+    "boy-wanpaku": "Fenrir",
+    "boy-cool": "Erinome",
+    "boy-nonbiri": "Schedar",
+    "girl-genki": "Laomedeia",
+    "girl-yasashi": "Leda",
+    "girl-oshama": "Despina",
+    "girl-hakihaki": "Zephyr",
+    "girl-nonbiri": "Callirrhoe"
+  },
+  "lines": {
+    "21138000": {
+      "speaker": "boy-nonbiri",
+      "text": "まえは つめを ととのえて くれたね。"
+    },
+    "32285856": {
+      "speaker": "vet",
+      "text": "えを よくみて、きになる ところを さがそう。"
+    },
+    "63361580": {
+      "speaker": "girl-oshama",
+      "text": "まえは けだまを とって くれたね。"
+    },
+    "63574234": {
+      "speaker": "vet",
+      "text": "しろちゃんを おみおくり しよう。"
+    },
+    "68740297": {
+      "speaker": "girl-hakihaki",
+      "text": "まえは ふわふわの けを とかして くれたね。"
+    },
+    "77420430": {
+      "speaker": "vet",
+      "text": "ゆきちゃんに、やさしく ごあいさつ。"
+    },
+    "78509385": {
+      "speaker": "vet",
+      "text": "1 → 2 → 3。めじるしを なぞって、せんせいの おてつだいを しよう。"
+    },
+    "94636310": {
+      "speaker": "vet",
+      "text": "ラムネちゃんを おみおくり しよう。"
+    },
+    "95313796": {
+      "speaker": "boy-yasashi",
+      "text": "こんどは、すこし あんしんして いけそう。ありがとう。"
+    },
+    "000996d4": {
+      "speaker": "vet",
+      "text": "1 → 2 → 3 の じゅんに、けなみに そって なぞろう。"
+    },
+    "00fa3e10": {
+      "speaker": "boy-wanpaku",
+      "text": "まえは くっつきむしを とって くれたね。"
+    },
+    "01c90c11": {
+      "speaker": "boy-wanpaku",
+      "text": "あしが ぽかぽかに なったよ。ありがとう。"
+    },
+    "023c0b93": {
+      "speaker": "vet",
+      "text": "せんせいが めを しらべて、このこの めぐすりを えらんだよ。いっしょに おてつだいしよう。"
+    },
+    "024fb0f8": {
+      "speaker": "vet",
+      "text": "きなこちゃんを おみおくり しよう。"
+    },
+    "038e92e4": {
+      "speaker": "girl-oshama",
+      "text": "あしが ぽかぽかに なったよ。ありがとう。"
+    },
+    "0422ac1b": {
+      "speaker": "boy-genki",
+      "text": "そっと とってくれたから、ちっとも いたく なかったよ。"
+    },
+    "049282a6": {
+      "speaker": "boy-genki",
+      "text": "こんどは、すこし あんしんして いけそう。ありがとう。"
+    },
+    "056b1913": {
+      "speaker": "boy-nonbiri",
+      "text": "くっつきむしを とってくれて ありがとう。また どんぐりを さがしたよ。"
+    },
+    "059f564c": {
+      "speaker": "boy-genki",
+      "text": "ゆっくり やすめたよ。せんせいが おうちまで おくって くれたよ。ありがとう。"
+    },
+    "06eac72c": {
+      "speaker": "boy-yasashi",
+      "text": "あしが ぽかぽかに なったよ。ありがとう。"
+    },
+    "0743a341": {
+      "speaker": "girl-yasashi",
+      "text": "まえは ふわふわの けを とかして くれたね。"
+    },
+    "084077d5": {
+      "speaker": "boy-genki",
+      "text": "まえは ふわふわの けを とかして くれたね。"
+    },
+    "0853aa59": {
+      "speaker": "vet",
+      "text": "せんせいが ひふと けだまを かくにんしたよ。ひふを まもりながら、せんせいが バリカンで とるよ。"
+    },
+    "090b8496": {
+      "speaker": "girl-hakihaki",
+      "text": "ゆっくり やすめたよ。せんせいが おうちまで おくって くれたよ。ありがとう。"
+    },
+    "09be6308": {
+      "speaker": "vet",
+      "text": "チョコちゃんに、やさしく ごあいさつ。"
+    },
+    "09f105e4": {
+      "speaker": "vet",
+      "text": "はるは けが はえかわる きせつ。ひふは げんきだよ。ブラシで やさしく とかそう。"
+    },
+    "0ad64468": {
+      "speaker": "vet",
+      "text": "ころちゃんを おみおくり しよう。"
+    },
+    "0ad64b3f": {
+      "speaker": "girl-genki",
+      "text": "だいすきな せんせいたちへ。ずっと なかよしで いてね。ひみつを おしえて あげる。"
+    },
+    "0ae2eb20": {
+      "speaker": "boy-yasashi",
+      "text": "けんしん、どきどき したけど たのしかったよ。"
+    },
+    "0bad8ac4": {
+      "speaker": "boy-yasashi",
+      "text": "せんせいに、おみみの ようすを みて もらって いるよ。"
+    },
+    "0ccadb28": {
+      "speaker": "girl-oshama",
+      "text": "けんしん、どきどき したけど たのしかったよ。"
+    },
+    "0d5da808": {
+      "speaker": "vet",
+      "text": "しんさつカードと おなじ マークの ふくろを えらぼう。"
+    },
+    "0e01a0e4": {
+      "speaker": "girl-yasashi",
+      "text": "まえは けだまを とって くれたね。"
+    },
+    "0e6796b3": {
+      "speaker": "girl-genki",
+      "text": "あしさきが かるく なったよ。ありがとう！"
+    },
+    "0e9d554f": {
+      "speaker": "girl-hakihaki",
+      "text": "だいすきな せんせいたちへ。ずっと なかよしで いてね。ひみつを おしえて あげる。"
+    },
+    "0ee4af8e": {
+      "speaker": "girl-oshama",
+      "text": "おうちで ようすを みて もらって いるよ。やさしく してくれて ありがとう。"
+    },
+    "0f7edacb": {
+      "speaker": "girl-oshama",
+      "text": "おみみを そっと ふいてくれて ありがとう。きもちよかったよ。"
+    },
+    "1007c323": {
+      "speaker": "girl-yasashi",
+      "text": "しずかな ばしょ、うれしかったよ。"
+    },
+    "1065c485": {
+      "speaker": "girl-nonbiri",
+      "text": "たんじょうびの おいわいに、あそびに いくね。ケーキの シールを いれて おくね。"
+    },
+    "116fc6e6": {
+      "speaker": "vet",
+      "text": "はじめての おてつだい、ありがとう。これから よろしくね。"
+    },
+    "11b3546b": {
+      "speaker": "boy-cool",
+      "text": "せんせいに、おみみの ようすを みて もらって いるよ。"
+    },
+    "11bbe6ad": {
+      "speaker": "vet",
+      "text": "たなばたの きせつだね。たんざくの シールを どうぞ。"
+    },
+    "13082a1f": {
+      "speaker": "vet",
+      "text": "せんせいが からだを しらべたよ。あつかったんだね。すずしい ばしょで、おみずを あげよう。"
+    },
+    "13e35767": {
+      "speaker": "boy-yasashi",
+      "text": "しずかな ばしょ、うれしかったよ。"
+    },
+    "1512014f": {
+      "speaker": "girl-yasashi",
+      "text": "つめが ととのって、マットの うえも すいすい あるけるよ。"
+    },
+    "151a2b6a": {
+      "speaker": "girl-oshama",
+      "text": "ブラシ、きもちよかったよ。からだが かるいよ。"
+    },
+    "1719e5bf": {
+      "speaker": "girl-yasashi",
+      "text": "ひさしぶり！"
+    },
+    "1825380a": {
+      "speaker": "girl-hakihaki",
+      "text": "あしが ぽかぽかに なったよ。ありがとう。"
+    },
+    "191949b0": {
+      "speaker": "vet",
+      "text": "ポテトちゃんに、やさしく ごあいさつ。"
+    },
+    "195a9133": {
+      "speaker": "girl-oshama",
+      "text": "ひさしぶり！"
+    },
+    "19dc7fed": {
+      "speaker": "boy-cool",
+      "text": "けんしん、どきどき したけど たのしかったよ。"
+    },
+    "1a98a571": {
+      "speaker": "girl-yasashi",
+      "text": "すずしい ところで やすんで いるよ。おみず、ありがとう。"
+    },
+    "1ab6bbb6": {
+      "speaker": "girl-oshama",
+      "text": "たんじょうびの おいわいに、あそびに いくね。ケーキの シールを いれて おくね。"
+    },
+    "1b207d00": {
+      "speaker": "girl-yasashi",
+      "text": "ゆっくり やすめたよ。せんせいが おうちまで おくって くれたよ。ありがとう。"
+    },
+    "1b7ad9bf": {
+      "speaker": "girl-genki",
+      "text": "まえは くっつきむしを とって くれたね。"
+    },
+    "1bfb8bd6": {
+      "speaker": "girl-nonbiri",
+      "text": "そっと とってくれたから、ちっとも いたく なかったよ。"
+    },
+    "1cb2bbbe": {
+      "speaker": "boy-genki",
+      "text": "まえは つめたい あしを ふいて くれたね。"
+    },
+    "1ccf564f": {
+      "speaker": "boy-nonbiri",
+      "text": "こんどは、すこし あんしんして いけそう。ありがとう。"
+    },
+    "1cfb207d": {
+      "speaker": "boy-wanpaku",
+      "text": "まえは むねの おとを きいて くれたね。"
+    },
+    "1d114ea0": {
+      "speaker": "boy-wanpaku",
+      "text": "ひさしぶり！"
+    },
+    "1d3c2689": {
+      "speaker": "vet",
+      "text": "つめきりを みどりの めじるしに あわせて、ととのえよう。"
+    },
+    "1db94e29": {
+      "speaker": "girl-nonbiri",
+      "text": "ゆきあそびの あと、ちゃんと あしを ふいて もらって いるよ。"
+    },
+    "20299daa": {
+      "speaker": "girl-yasashi",
+      "text": "たんじょうびの おいわいに、あそびに いくね。ケーキの シールを いれて おくね。"
+    },
+    "20a44203": {
+      "speaker": "boy-wanpaku",
+      "text": "こんどは、すこし あんしんして いけそう。ありがとう。"
+    },
+    "20c3f389": {
+      "speaker": "vet",
+      "text": "くろちゃんに、やさしく ごあいさつ。"
+    },
+    "2147c7b5": {
+      "speaker": "girl-genki",
+      "text": "そっと とってくれたから、ちっとも いたく なかったよ。"
+    },
+    "23ea4d26": {
+      "speaker": "girl-genki",
+      "text": "まえは むねの おとを きいて くれたね。"
+    },
+    "24dcce91": {
+      "speaker": "boy-cool",
+      "text": "あしが ぽかぽかに なったよ。ありがとう。"
+    },
+    "252506cf": {
+      "speaker": "vet",
+      "text": "1 → 2 → 3。けを おさえながら、そっと とろう。"
+    },
+    "2689c269": {
+      "speaker": "boy-yasashi",
+      "text": "だいすきな せんせいたちへ。ずっと なかよしで いてね。ひみつを おしえて あげる。"
+    },
+    "27b41248": {
+      "speaker": "boy-nonbiri",
+      "text": "そっと とってくれたから、ちっとも いたく なかったよ。"
+    },
+    "2810145a": {
+      "speaker": "vet",
+      "text": "みつけた ことを、せんせいに つたえよう。"
+    },
+    "284a2709": {
+      "speaker": "girl-oshama",
+      "text": "まえは つめを ととのえて くれたね。"
+    },
+    "29c1d351": {
+      "speaker": "boy-cool",
+      "text": "ゆっくり やすめたよ。せんせいが おうちまで おくって くれたよ。ありがとう。"
+    },
+    "2b264044": {
+      "speaker": "girl-nonbiri",
+      "text": "だいすきな せんせいたちへ。ずっと なかよしで いてね。ひみつを おしえて あげる。"
+    },
+    "2c5fcb25": {
+      "speaker": "girl-nonbiri",
+      "text": "せんせいに、おみみの ようすを みて もらって いるよ。"
+    },
+    "2c6b97c5": {
+      "speaker": "boy-yasashi",
+      "text": "まえは ふわふわの けを とかして くれたね。"
+    },
+    "2c889cff": {
+      "speaker": "vet",
+      "text": "ひなたちゃんを おみおくり しよう。"
+    },
+    "2d246faa": {
+      "speaker": "girl-yasashi",
+      "text": "おうちで ようすを みて もらって いるよ。やさしく してくれて ありがとう。"
+    },
+    "2d50ff90": {
+      "speaker": "boy-cool",
+      "text": "まえは くっつきむしを とって くれたね。"
+    },
+    "2d51fb7a": {
+      "speaker": "vet",
+      "text": "せんせいに つたえたよ。"
+    },
+    "2eed1af7": {
+      "speaker": "vet",
+      "text": "チョコちゃんを おみおくり しよう。"
+    },
+    "2efa08b4": {
+      "speaker": "girl-genki",
+      "text": "こんどは、すこし あんしんして いけそう。ありがとう。"
+    },
+    "2efdc603": {
+      "speaker": "vet",
+      "text": "そらちゃんに、やさしく ごあいさつ。"
+    },
+    "2f8d6664": {
+      "speaker": "boy-nonbiri",
+      "text": "まえは くっつきむしを とって くれたね。"
+    },
+    "32fdd850": {
+      "speaker": "girl-oshama",
+      "text": "まえは むねの おとを きいて くれたね。"
+    },
+    "338c59ae": {
+      "speaker": "boy-yasashi",
+      "text": "まえは つめたい あしを ふいて くれたね。"
+    },
+    "33addf1e": {
+      "speaker": "vet",
+      "text": "しゃがんで、においを かいで もらって、そっと なでよう。"
+    },
+    "33bc62b8": {
+      "speaker": "boy-nonbiri",
+      "text": "つめが ととのって、マットの うえも すいすい あるけるよ。"
+    },
+    "342f9f54": {
+      "speaker": "girl-yasashi",
+      "text": "まえは むねの おとを きいて くれたね。"
+    },
+    "3517e4e7": {
+      "speaker": "girl-oshama",
+      "text": "まえは おみみを きれいに して くれたね。"
+    },
+    "3571ac49": {
+      "speaker": "girl-oshama",
+      "text": "あしさきが かるく なったよ。ありがとう！"
+    },
+    "363949fd": {
+      "speaker": "vet",
+      "text": "きなこちゃんに、やさしく ごあいさつ。"
+    },
+    "37fe48b2": {
+      "speaker": "vet",
+      "text": "ふぶきちゃんを おみおくり しよう。"
+    },
+    "392caed9": {
+      "speaker": "girl-oshama",
+      "text": "まえは くっつきむしを とって くれたね。"
+    },
+    "39f3acb6": {
+      "speaker": "girl-oshama",
+      "text": "まえは つめたい あしを ふいて くれたね。"
+    },
+    "3a40f097": {
+      "speaker": "boy-genki",
+      "text": "しずかな ばしょ、うれしかったよ。"
+    },
+    "3ac96539": {
+      "speaker": "vet",
+      "text": "ココアちゃんに、やさしく ごあいさつ。"
+    },
+    "3ae01dd0": {
+      "speaker": "boy-cool",
+      "text": "まえは ふわふわの けを とかして くれたね。"
+    },
+    "3afa658c": {
+      "speaker": "boy-nonbiri",
+      "text": "ひさしぶり！"
+    },
+    "3b31614e": {
+      "speaker": "girl-nonbiri",
+      "text": "まえは おみみを きれいに して くれたね。"
+    },
+    "3b962720": {
+      "speaker": "girl-hakihaki",
+      "text": "たんじょうびの おいわいに、あそびに いくね。ケーキの シールを いれて おくね。"
+    },
+    "3c6f58e8": {
+      "speaker": "girl-yasashi",
+      "text": "あしが ぽかぽかに なったよ。ありがとう。"
+    },
+    "3c7d7437": {
+      "speaker": "boy-cool",
+      "text": "おくすりを たしかめて くれて ありがとう。のんびり すごして いるよ。"
+    },
+    "3c8eb9c2": {
+      "speaker": "boy-genki",
+      "text": "ブラシ、きもちよかったよ。からだが かるいよ。"
+    },
+    "3d9d0834": {
+      "speaker": "vet",
+      "text": "わたげちゃんを おみおくり しよう。"
+    },
+    "3e94ddda": {
+      "speaker": "vet",
+      "text": "ほくちゃんを おみおくり しよう。"
+    },
+    "3e9970a2": {
+      "speaker": "girl-hakihaki",
+      "text": "はるの かぜが、ふわふわの けに きもちいいよ。ありがとう。"
+    },
+    "3f0b81fb": {
+      "speaker": "boy-cool",
+      "text": "おうちで ようすを みて もらって いるよ。やさしく してくれて ありがとう。"
+    },
+    "3f351939": {
+      "speaker": "girl-hakihaki",
+      "text": "けだまが なくなって、からだが かるいよ。ありがとう！"
+    },
+    "40d90d2c": {
+      "speaker": "vet",
+      "text": "くろちゃんを おみおくり しよう。"
+    },
+    "413ff4dd": {
+      "speaker": "girl-yasashi",
+      "text": "まえは つめを ととのえて くれたね。"
+    },
+    "422d6452": {
+      "speaker": "girl-yasashi",
+      "text": "いっしょに あそんだ ところを、クレヨンで かいたよ。シールも いれて おくね。"
+    },
+    "42f6f8e4": {
+      "speaker": "boy-yasashi",
+      "text": "ゆきあそびの あと、ちゃんと あしを ふいて もらって いるよ。"
+    },
+    "432c17b8": {
+      "speaker": "boy-yasashi",
+      "text": "まえは むねの おとを きいて くれたね。"
+    },
+    "4400f8d6": {
+      "speaker": "girl-hakihaki",
+      "text": "まえは むねの おとを きいて くれたね。"
+    },
+    "4439f2ec": {
+      "speaker": "girl-yasashi",
+      "text": "けんしん、どきどき したけど たのしかったよ。"
+    },
+    "45b88445": {
+      "speaker": "vet",
+      "text": "こはくちゃんを おみおくり しよう。"
+    },
+    "464d01ec": {
+      "speaker": "boy-wanpaku",
+      "text": "つめが ととのって、マットの うえも すいすい あるけるよ。"
+    },
+    "46a63ad6": {
+      "speaker": "girl-yasashi",
+      "text": "ブラシ、きもちよかったよ。からだが かるいよ。"
+    },
+    "46b1336c": {
+      "speaker": "boy-cool",
+      "text": "つめが ととのって、マットの うえも すいすい あるけるよ。"
+    },
+    "46ca6a78": {
+      "speaker": "girl-oshama",
+      "text": "くっつきむしを とってくれて ありがとう。また どんぐりを さがしたよ。"
+    },
+    "46d56f6e": {
+      "speaker": "girl-yasashi",
+      "text": "まえは すずしい ばしょで おみずを くれたね。"
+    },
+    "47a5b91b": {
+      "speaker": "girl-genki",
+      "text": "まえは つめを ととのえて くれたね。"
+    },
+    "4857fc36": {
+      "speaker": "vet",
+      "text": "こむぎちゃんに、やさしく ごあいさつ。"
+    },
+    "4902af1b": {
+      "speaker": "vet",
+      "text": "おつきみの きせつだね。おだんごの シールを どうぞ。"
+    },
+    "49277efa": {
+      "speaker": "vet",
+      "text": "ゆきみちゃんを おみおくり しよう。"
+    },
+    "4959ab65": {
+      "speaker": "girl-hakihaki",
+      "text": "そっと とってくれたから、ちっとも いたく なかったよ。"
+    },
+    "495ab68f": {
+      "speaker": "vet",
+      "text": "ポテトちゃんを おみおくり しよう。"
+    },
+    "49fe4174": {
+      "speaker": "boy-nonbiri",
+      "text": "まえは ふわふわの けを とかして くれたね。"
+    },
+    "4a2999cf": {
+      "speaker": "girl-hakihaki",
+      "text": "まえは くっつきむしを とって くれたね。"
+    },
+    "4a301fe0": {
+      "speaker": "vet",
+      "text": "1 → 2 → 3。みえる ところを、そっと なぞって ふこう。"
+    },
+    "4ac36c1e": {
+      "speaker": "girl-yasashi",
+      "text": "あつい ひは、ひかげで のんびり するね。やさしく してくれて ありがとう。"
+    },
+    "4b4358c5": {
+      "speaker": "boy-nonbiri",
+      "text": "あしが ぽかぽかに なったよ。ありがとう。"
+    },
+    "4bb5800c": {
+      "speaker": "boy-wanpaku",
+      "text": "まえは つめを ととのえて くれたね。"
+    },
+    "4bc8a54a": {
+      "speaker": "boy-genki",
+      "text": "あつい ひは、ひかげで のんびり するね。やさしく してくれて ありがとう。"
+    },
+    "4bd83706": {
+      "speaker": "girl-oshama",
+      "text": "いっしょに あそんだ ところを、クレヨンで かいたよ。シールも いれて おくね。"
+    },
+    "4c15ec80": {
+      "speaker": "vet",
+      "text": "ルナちゃんに、やさしく ごあいさつ。"
+    },
+    "4da33516": {
+      "speaker": "vet",
+      "text": "おかえりなさい。みんな げんきに すごして いるよ。きょうも よろしくね。"
+    },
+    "4e3a99f5": {
+      "speaker": "girl-nonbiri",
+      "text": "くっつきむしを とってくれて ありがとう。また どんぐりを さがしたよ。"
+    },
+    "4eee42b2": {
+      "speaker": "boy-yasashi",
+      "text": "ブラシ、きもちよかったよ。からだが かるいよ。"
+    },
+    "4f3fd378": {
+      "speaker": "boy-cool",
+      "text": "まえは おみみを きれいに して くれたね。"
+    },
+    "4f4daabd": {
+      "speaker": "vet",
+      "text": "はるが きたね。さくらの シールを どうぞ。"
+    },
+    "4f91967b": {
+      "speaker": "boy-yasashi",
+      "text": "ひさしぶり！"
+    },
+    "519e6991": {
+      "speaker": "boy-wanpaku",
+      "text": "あつい ひは、ひかげで のんびり するね。やさしく してくれて ありがとう。"
+    },
+    "51cab83b": {
+      "speaker": "girl-yasashi",
+      "text": "むねの おとを きいてくれて ありがとう。きょうも げんきだよ。"
+    },
+    "5206ed1a": {
+      "speaker": "girl-yasashi",
+      "text": "こんどは、すこし あんしんして いけそう。ありがとう。"
+    },
+    "52907ad2": {
+      "speaker": "girl-hakihaki",
+      "text": "ゆきあそびの あと、ちゃんと あしを ふいて もらって いるよ。"
+    },
+    "556caff8": {
+      "speaker": "girl-hakihaki",
+      "text": "いっしょに あそんだ ところを、クレヨンで かいたよ。シールも いれて おくね。"
+    },
+    "55e835e1": {
+      "speaker": "girl-oshama",
+      "text": "だいすきな せんせいたちへ。ずっと なかよしで いてね。ひみつを おしえて あげる。"
+    },
+    "567a5bb0": {
+      "speaker": "girl-genki",
+      "text": "たんじょうびの おいわいに、あそびに いくね。ケーキの シールを いれて おくね。"
+    },
+    "57a0b959": {
+      "speaker": "girl-oshama",
+      "text": "まえは めぐすりを てつだって くれたね。"
+    },
+    "57acff77": {
+      "speaker": "girl-nonbiri",
+      "text": "けんしん、どきどき したけど たのしかったよ。"
+    },
+    "59a33b50": {
+      "speaker": "boy-genki",
+      "text": "くっつきむしを とってくれて ありがとう。また どんぐりを さがしたよ。"
+    },
+    "5bc02cf2": {
+      "speaker": "girl-oshama",
+      "text": "あつい ひは、ひかげで のんびり するね。やさしく してくれて ありがとう。"
+    },
+    "5bf1b8e1": {
+      "speaker": "boy-yasashi",
+      "text": "まえは くっつきむしを とって くれたね。"
+    },
+    "5c336ff8": {
+      "speaker": "boy-wanpaku",
+      "text": "あしさきが かるく なったよ。ありがとう！"
+    },
+    "5d5848bb": {
+      "speaker": "boy-genki",
+      "text": "けだまが なくなって、からだが かるいよ。ありがとう！"
+    },
+    "5dd75623": {
+      "speaker": "girl-oshama",
+      "text": "せんせいの おてつだい、じょうずだったね。ふわふわに なったよ。"
+    },
+    "5e82425f": {
+      "speaker": "girl-nonbiri",
+      "text": "まえは おくすりを たしかめて くれたね。"
+    },
+    "5f514a08": {
+      "speaker": "girl-oshama",
+      "text": "まえは おくすりを たしかめて くれたね。"
+    },
+    "5fb241ff": {
+      "speaker": "boy-nonbiri",
+      "text": "たんじょうびの おいわいに、あそびに いくね。ケーキの シールを いれて おくね。"
+    },
+    "616e9ea2": {
+      "speaker": "girl-genki",
+      "text": "ゆきあそびの あと、ちゃんと あしを ふいて もらって いるよ。"
+    },
+    "61897c83": {
+      "speaker": "boy-cool",
+      "text": "こんどは、すこし あんしんして いけそう。ありがとう。"
+    },
+    "6321f6f0": {
+      "speaker": "vet",
+      "text": "みけちゃんを おみおくり しよう。"
+    },
+    "638097d1": {
+      "speaker": "boy-wanpaku",
+      "text": "ゆっくり やすめたよ。せんせいが おうちまで おくって くれたよ。ありがとう。"
+    },
+    "639c0614": {
+      "speaker": "girl-hakihaki",
+      "text": "あつい ひは、ひかげで のんびり するね。やさしく してくれて ありがとう。"
+    },
+    "641ad605": {
+      "speaker": "girl-nonbiri",
+      "text": "おくすりを たしかめて くれて ありがとう。のんびり すごして いるよ。"
+    },
+    "64e7974c": {
+      "speaker": "boy-nonbiri",
+      "text": "すずしい ところで やすんで いるよ。おみず、ありがとう。"
+    },
+    "66a637ff": {
+      "speaker": "boy-cool",
+      "text": "くっつきむしを とってくれて ありがとう。また どんぐりを さがしたよ。"
+    },
+    "66e58610": {
+      "speaker": "boy-nonbiri",
+      "text": "むねの おとを きいてくれて ありがとう。きょうも げんきだよ。"
+    },
+    "6734232f": {
+      "speaker": "boy-cool",
+      "text": "はるの かぜが、ふわふわの けに きもちいいよ。ありがとう。"
+    },
+    "67dabe30": {
+      "speaker": "girl-oshama",
+      "text": "おうちの ひとと、ゆっくり やすんで いるよ。ありがとう。"
+    },
+    "68f46988": {
+      "speaker": "girl-yasashi",
+      "text": "はるの かぜが、ふわふわの けに きもちいいよ。ありがとう。"
+    },
+    "6963c5b9": {
+      "speaker": "girl-hakihaki",
+      "text": "しずかな ばしょ、うれしかったよ。"
+    },
+    "6a0d8e40": {
+      "speaker": "boy-wanpaku",
+      "text": "すずしい ところで やすんで いるよ。おみず、ありがとう。"
+    },
+    "6ac538e9": {
+      "speaker": "girl-genki",
+      "text": "ひさしぶり！"
+    },
+    "6adc44b8": {
+      "speaker": "vet",
+      "text": "ピッポちゃんを おみおくり しよう。"
+    },
+    "6ce24680": {
+      "speaker": "boy-cool",
+      "text": "めぐすりの とき、そばに いてくれて うれしかったよ。"
+    },
+    "6d561a0f": {
+      "speaker": "vet",
+      "text": "ゆきちゃんを おみおくり しよう。"
+    },
+    "6e0b132b": {
+      "speaker": "girl-nonbiri",
+      "text": "まえは むねの おとを きいて くれたね。"
+    },
+    "6e73a0ff": {
+      "speaker": "boy-nonbiri",
+      "text": "ブラシ、きもちよかったよ。からだが かるいよ。"
+    },
+    "6e8f965d": {
+      "speaker": "girl-yasashi",
+      "text": "だいすきな せんせいたちへ。ずっと なかよしで いてね。ひみつを おしえて あげる。"
+    },
+    "6f7d7701": {
+      "speaker": "vet",
+      "text": "ももちゃんに、やさしく ごあいさつ。"
+    },
+    "6f880c46": {
+      "speaker": "vet",
+      "text": "おもいでばこを あけたら、たなばたの シールが でてきたよ。どうぞ。"
+    },
+    "702fe8d8": {
+      "speaker": "girl-oshama",
+      "text": "おくすりを たしかめて くれて ありがとう。のんびり すごして いるよ。"
+    },
+    "70b59519": {
+      "speaker": "girl-hakihaki",
+      "text": "おみみを そっと ふいてくれて ありがとう。きもちよかったよ。"
+    },
+    "70cf16f9": {
+      "speaker": "girl-genki",
+      "text": "つめが ととのって、マットの うえも すいすい あるけるよ。"
+    },
+    "72b750c0": {
+      "speaker": "boy-cool",
+      "text": "すずしい ところで やすんで いるよ。おみず、ありがとう。"
+    },
+    "72c876c5": {
+      "speaker": "vet",
+      "text": "ラムネちゃんに、やさしく ごあいさつ。"
+    },
+    "72dc86a2": {
+      "speaker": "girl-nonbiri",
+      "text": "まえは ふわふわの けを とかして くれたね。"
+    },
+    "730cf8bd": {
+      "speaker": "vet",
+      "text": "ピッポちゃんに、やさしく ごあいさつ。"
+    },
+    "732815ca": {
+      "speaker": "girl-genki",
+      "text": "けんしん、どきどき したけど たのしかったよ。"
+    },
+    "73fecb11": {
+      "speaker": "boy-cool",
+      "text": "あつい ひは、ひかげで のんびり するね。やさしく してくれて ありがとう。"
+    },
+    "7444072d": {
+      "speaker": "vet",
+      "text": "ころちゃんに、やさしく ごあいさつ。"
+    },
+    "74ce74ad": {
+      "speaker": "boy-cool",
+      "text": "おうちの ひとと、ゆっくり やすんで いるよ。ありがとう。"
+    },
+    "75ca259e": {
+      "speaker": "girl-genki",
+      "text": "まえは しずかな ばしょを つくって くれたね。"
+    },
+    "75d452c5": {
+      "speaker": "boy-nonbiri",
+      "text": "まえは すずしい ばしょで おみずを くれたね。"
+    },
+    "760a4840": {
+      "speaker": "girl-hakihaki",
+      "text": "ブラシ、きもちよかったよ。からだが かるいよ。"
+    },
+    "765d2cf6": {
+      "speaker": "boy-cool",
+      "text": "おみみを そっと ふいてくれて ありがとう。きもちよかったよ。"
+    },
+    "767807bc": {
+      "speaker": "girl-hakihaki",
+      "text": "まえは つめたい あしを ふいて くれたね。"
+    },
+    "76bc0e1a": {
+      "speaker": "boy-yasashi",
+      "text": "あつい ひは、ひかげで のんびり するね。やさしく してくれて ありがとう。"
+    },
+    "777544b2": {
+      "speaker": "girl-genki",
+      "text": "はるの かぜが、ふわふわの けに きもちいいよ。ありがとう。"
+    },
+    "781be4b5": {
+      "speaker": "girl-yasashi",
+      "text": "あしさきが かるく なったよ。ありがとう！"
+    },
+    "7a5e080c": {
+      "speaker": "boy-wanpaku",
+      "text": "そっと とってくれたから、ちっとも いたく なかったよ。"
+    },
+    "7b387064": {
+      "speaker": "boy-yasashi",
+      "text": "まえは しずかな ばしょを つくって くれたね。"
+    },
+    "7b6456e9": {
+      "speaker": "girl-genki",
+      "text": "しずかな ばしょ、うれしかったよ。"
+    },
+    "7bdc486c": {
+      "speaker": "boy-yasashi",
+      "text": "はるの かぜが、ふわふわの けに きもちいいよ。ありがとう。"
+    },
+    "7d0cca4b": {
+      "speaker": "girl-hakihaki",
+      "text": "まえは つめを ととのえて くれたね。"
+    },
+    "7e5ded2e": {
+      "speaker": "boy-genki",
+      "text": "いっしょに あそんだ ところを、クレヨンで かいたよ。シールも いれて おくね。"
+    },
+    "7f2548a8": {
+      "speaker": "girl-genki",
+      "text": "いっしょに あそんだ ところを、クレヨンで かいたよ。シールも いれて おくね。"
+    },
+    "7f8ecf35": {
+      "speaker": "girl-yasashi",
+      "text": "めぐすりの とき、そばに いてくれて うれしかったよ。"
+    },
+    "7fdeb078": {
+      "speaker": "vet",
+      "text": "オレオちゃんを おみおくり しよう。"
+    },
+    "803b1844": {
+      "speaker": "girl-genki",
+      "text": "あつい ひは、ひかげで のんびり するね。やさしく してくれて ありがとう。"
+    },
+    "81e3a369": {
+      "speaker": "boy-cool",
+      "text": "まえは つめたい あしを ふいて くれたね。"
+    },
+    "8214c558": {
+      "speaker": "boy-yasashi",
+      "text": "おうちの ひとと、ゆっくり やすんで いるよ。ありがとう。"
+    },
+    "827c4f74": {
+      "speaker": "boy-genki",
+      "text": "ゆきあそびの あと、ちゃんと あしを ふいて もらって いるよ。"
+    },
+    "83018ce3": {
+      "speaker": "vet",
+      "text": "ゆきみちゃんに、やさしく ごあいさつ。"
+    },
+    "83d80e92": {
+      "speaker": "boy-nonbiri",
+      "text": "だいすきな せんせいたちへ。ずっと なかよしで いてね。ひみつを おしえて あげる。"
+    },
+    "84f7bb47": {
+      "speaker": "boy-nonbiri",
+      "text": "まえは しずかな ばしょを つくって くれたね。"
+    },
+    "85ba68fe": {
+      "speaker": "girl-hakihaki",
+      "text": "くっつきむしを とってくれて ありがとう。また どんぐりを さがしたよ。"
+    },
+    "85f0cb8a": {
+      "speaker": "girl-nonbiri",
+      "text": "むねの おとを きいてくれて ありがとう。きょうも げんきだよ。"
+    },
+    "86990fbd": {
+      "speaker": "boy-yasashi",
+      "text": "すずしい ところで やすんで いるよ。おみず、ありがとう。"
+    },
+    "86bc9e3e": {
+      "speaker": "boy-wanpaku",
+      "text": "しずかな ばしょ、うれしかったよ。"
+    },
+    "86f00d49": {
+      "speaker": "girl-oshama",
+      "text": "めぐすりの とき、そばに いてくれて うれしかったよ。"
+    },
+    "871c1bfd": {
+      "speaker": "girl-oshama",
+      "text": "まえは ふわふわの けを とかして くれたね。"
+    },
+    "88c5a1fc": {
+      "speaker": "boy-yasashi",
+      "text": "ゆっくり やすめたよ。せんせいが おうちまで おくって くれたよ。ありがとう。"
+    },
+    "8936672e": {
+      "speaker": "girl-nonbiri",
+      "text": "まえは つめを ととのえて くれたね。"
+    },
+    "895c53af": {
+      "speaker": "vet",
+      "text": "むぎちゃんに、やさしく ごあいさつ。"
+    },
+    "89eed304": {
+      "speaker": "girl-oshama",
+      "text": "ゆっくり やすめたよ。せんせいが おうちまで おくって くれたよ。ありがとう。"
+    },
+    "8a5e8920": {
+      "speaker": "boy-cool",
+      "text": "ひさしぶり！"
+    },
+    "8b530e0b": {
+      "speaker": "boy-genki",
+      "text": "せんせいの おてつだい、じょうずだったね。ふわふわに なったよ。"
+    },
+    "8c1bf5dc": {
+      "speaker": "boy-genki",
+      "text": "あしが ぽかぽかに なったよ。ありがとう。"
+    },
+    "8df4a631": {
+      "speaker": "boy-genki",
+      "text": "あしさきが かるく なったよ。ありがとう！"
+    },
+    "8e06826d": {
+      "speaker": "boy-genki",
+      "text": "すずしい ところで やすんで いるよ。おみず、ありがとう。"
+    },
+    "8e8bb1b5": {
+      "speaker": "girl-genki",
+      "text": "むねの おとを きいてくれて ありがとう。きょうも げんきだよ。"
+    },
+    "8f5e1cfe": {
+      "speaker": "boy-genki",
+      "text": "たんじょうびの おいわいに、あそびに いくね。ケーキの シールを いれて おくね。"
+    },
+    "8f6b9dd1": {
+      "speaker": "boy-cool",
+      "text": "まえは すずしい ばしょで おみずを くれたね。"
+    },
+    "905157d0": {
+      "speaker": "girl-hakihaki",
+      "text": "まえは すずしい ばしょで おみずを くれたね。"
+    },
+    "917c0d59": {
+      "speaker": "girl-hakihaki",
+      "text": "ひさしぶり！"
+    },
+    "918b5fec": {
+      "speaker": "girl-nonbiri",
+      "text": "おみみを そっと ふいてくれて ありがとう。きもちよかったよ。"
+    },
+    "91db1296": {
+      "speaker": "girl-nonbiri",
+      "text": "すずしい ところで やすんで いるよ。おみず、ありがとう。"
+    },
+    "91f7bb35": {
+      "speaker": "girl-nonbiri",
+      "text": "はるの かぜが、ふわふわの けに きもちいいよ。ありがとう。"
+    },
+    "9281d729": {
+      "speaker": "vet",
+      "text": "こむぎちゃんを おみおくり しよう。"
+    },
+    "9348c41d": {
+      "speaker": "girl-hakihaki",
+      "text": "まえは おみみを きれいに して くれたね。"
+    },
+    "93a2e350": {
+      "speaker": "boy-wanpaku",
+      "text": "まえは ふわふわの けを とかして くれたね。"
+    },
+    "93fef67d": {
+      "speaker": "boy-genki",
+      "text": "まえは あしの はっぱを とって くれたね。"
+    },
+    "94840ece": {
+      "speaker": "girl-genki",
+      "text": "くっつきむしを とってくれて ありがとう。また どんぐりを さがしたよ。"
+    },
+    "94a71bfe": {
+      "speaker": "boy-yasashi",
+      "text": "いっしょに あそんだ ところを、クレヨンで かいたよ。シールも いれて おくね。"
+    },
+    "94bd0b9f": {
+      "speaker": "boy-genki",
+      "text": "むねの おとを きいてくれて ありがとう。きょうも げんきだよ。"
+    },
+    "94cec227": {
+      "speaker": "vet",
+      "text": "ピコちゃんを おみおくり しよう。"
+    },
+    "95271adc": {
+      "speaker": "girl-yasashi",
+      "text": "くっつきむしを とってくれて ありがとう。また どんぐりを さがしたよ。"
+    },
+    "95af5183": {
+      "speaker": "vet",
+      "text": "ふゆが きたね。ゆきだるまの シールを どうぞ。"
+    },
+    "95da334d": {
+      "speaker": "girl-yasashi",
+      "text": "まえは くっつきむしを とって くれたね。"
+    },
+    "95f2bd1a": {
+      "speaker": "vet",
+      "text": "1 → 2 → 3。タオルで、そっと ふこう。"
+    },
+    "960f318c": {
+      "speaker": "boy-cool",
+      "text": "まえは つめを ととのえて くれたね。"
+    },
+    "9630b083": {
+      "speaker": "boy-wanpaku",
+      "text": "ブラシ、きもちよかったよ。からだが かるいよ。"
+    },
+    "96a68050": {
+      "speaker": "boy-genki",
+      "text": "けんしん、どきどき したけど たのしかったよ。"
+    },
+    "96b9c818": {
+      "speaker": "boy-genki",
+      "text": "まえは けだまを とって くれたね。"
+    },
+    "98c4acc4": {
+      "speaker": "vet",
+      "text": "けがは ないよ。くっつきむしは、けを ひっぱらないように そっと とろう。"
+    },
+    "9972da6d": {
+      "speaker": "boy-wanpaku",
+      "text": "けんしん、どきどき したけど たのしかったよ。"
+    },
+    "9981e707": {
+      "speaker": "girl-oshama",
+      "text": "むねの おとを きいてくれて ありがとう。きょうも げんきだよ。"
+    },
+    "9a186408": {
+      "speaker": "boy-genki",
+      "text": "まえは むねの おとを きいて くれたね。"
+    },
+    "9b9d615c": {
+      "speaker": "girl-oshama",
+      "text": "せんせいに、おみみの ようすを みて もらって いるよ。"
+    },
+    "9ce645e4": {
+      "speaker": "vet",
+      "text": "けがは ないよ。やわらかい タオルで、あしを ふいて あたためよう。"
+    },
+    "9d344c24": {
+      "speaker": "girl-oshama",
+      "text": "はるの かぜが、ふわふわの けに きもちいいよ。ありがとう。"
+    },
+    "9d63a85f": {
+      "speaker": "vet",
+      "text": "ルナちゃんを おみおくり しよう。"
+    },
+    "9d68d9d3": {
+      "speaker": "boy-wanpaku",
+      "text": "まえは しずかな ばしょを つくって くれたね。"
+    },
+    "9e95803b": {
+      "speaker": "boy-yasashi",
+      "text": "つめが ととのって、マットの うえも すいすい あるけるよ。"
+    },
+    "9f579acb": {
+      "speaker": "boy-genki",
+      "text": "つめが ととのって、マットの うえも すいすい あるけるよ。"
+    },
+    "9f7f394b": {
+      "speaker": "boy-genki",
+      "text": "ひさしぶり！"
+    },
+    "9f8f2ff5": {
+      "speaker": "vet",
+      "text": "くるみちゃんを おみおくり しよう。"
+    },
+    "9fc249c6": {
+      "speaker": "vet",
+      "text": "かりんちゃんを おみおくり しよう。"
+    },
+    "9fd1b785": {
+      "speaker": "boy-genki",
+      "text": "あしが すっきり したよ。また おさんぽに いってきたよ！"
+    },
+    "a03e8f21": {
+      "speaker": "boy-yasashi",
+      "text": "あしさきが かるく なったよ。ありがとう！"
+    },
+    "a208209c": {
+      "speaker": "vet",
+      "text": "ココアちゃんを おみおくり しよう。"
+    },
+    "a303135a": {
+      "speaker": "vet",
+      "text": "けがが ないか、せんせいが かくにんしたよ。けなみに そって、はっぱを とろう。"
+    },
+    "a47fb18f": {
+      "speaker": "vet",
+      "text": "1 → 2 → 3。けなみに そって、やさしく とかそう。"
+    },
+    "a608d27f": {
+      "speaker": "boy-wanpaku",
+      "text": "くっつきむしを とってくれて ありがとう。また どんぐりを さがしたよ。"
+    },
+    "a62486ba": {
+      "speaker": "girl-genki",
+      "text": "あしが ぽかぽかに なったよ。ありがとう。"
+    },
+    "a71ff502": {
+      "speaker": "girl-nonbiri",
+      "text": "あしさきが かるく なったよ。ありがとう！"
+    },
+    "a91aa52f": {
+      "speaker": "boy-yasashi",
+      "text": "むねの おとを きいてくれて ありがとう。きょうも げんきだよ。"
+    },
+    "abb0f6e5": {
+      "speaker": "boy-nonbiri",
+      "text": "まえは つめたい あしを ふいて くれたね。"
+    },
+    "ad42fc61": {
+      "speaker": "vet",
+      "text": "たいじゅうを はかって、むねの おとを きこう。"
+    },
+    "adba2803": {
+      "speaker": "boy-cool",
+      "text": "ブラシ、きもちよかったよ。からだが かるいよ。"
+    },
+    "adbb75e7": {
+      "speaker": "vet",
+      "text": "せんせいが つめを みたよ。みじかくして よい ところに、めじるしを つけたよ。"
+    },
+    "addf09e1": {
+      "speaker": "boy-cool",
+      "text": "まえは おくすりを たしかめて くれたね。"
+    },
+    "af2c0695": {
+      "speaker": "boy-wanpaku",
+      "text": "いっしょに あそんだ ところを、クレヨンで かいたよ。シールも いれて おくね。"
+    },
+    "af7043cb": {
+      "speaker": "girl-hakihaki",
+      "text": "すずしい ところで やすんで いるよ。おみず、ありがとう。"
+    },
+    "b3392acc": {
+      "speaker": "girl-genki",
+      "text": "まえは つめたい あしを ふいて くれたね。"
+    },
+    "b3f0385e": {
+      "speaker": "girl-nonbiri",
+      "text": "ひさしぶり！"
+    },
+    "b447b9ab": {
+      "speaker": "boy-wanpaku",
+      "text": "たんじょうびの おいわいに、あそびに いくね。ケーキの シールを いれて おくね。"
+    },
+    "b4e62d1f": {
+      "speaker": "girl-yasashi",
+      "text": "そっと とってくれたから、ちっとも いたく なかったよ。"
+    },
+    "b51266ef": {
+      "speaker": "girl-yasashi",
+      "text": "けだまが なくなって、からだが かるいよ。ありがとう！"
+    },
+    "b64725b1": {
+      "speaker": "boy-genki",
+      "text": "まえは つめを ととのえて くれたね。"
+    },
+    "b687891a": {
+      "speaker": "girl-hakihaki",
+      "text": "けんしん、どきどき したけど たのしかったよ。"
+    },
+    "b68dae62": {
+      "speaker": "boy-yasashi",
+      "text": "まえは すずしい ばしょで おみずを くれたね。"
+    },
+    "b8e42cda": {
+      "speaker": "vet",
+      "text": "そらちゃんを おみおくり しよう。"
+    },
+    "ba451534": {
+      "speaker": "boy-nonbiri",
+      "text": "あしさきが かるく なったよ。ありがとう！"
+    },
+    "bc6b1a3a": {
+      "speaker": "vet",
+      "text": "つばきちゃんに、やさしく ごあいさつ。"
+    },
+    "be5d3d4c": {
+      "speaker": "vet",
+      "text": "おもいでばこを あけたら、おつきみの シールが でてきたよ。どうぞ。"
+    },
+    "bed099e0": {
+      "speaker": "girl-yasashi",
+      "text": "まえは しずかな ばしょを つくって くれたね。"
+    },
+    "bfb1be07": {
+      "speaker": "vet",
+      "text": "まりもちゃんに、やさしく ごあいさつ。"
+    },
+    "c13f7ccd": {
+      "speaker": "girl-hakihaki",
+      "text": "せんせいの おてつだい、じょうずだったね。ふわふわに なったよ。"
+    },
+    "c1415710": {
+      "speaker": "girl-genki",
+      "text": "ブラシ、きもちよかったよ。からだが かるいよ。"
+    },
+    "c1cca243": {
+      "speaker": "boy-cool",
+      "text": "ゆきあそびの あと、ちゃんと あしを ふいて もらって いるよ。"
+    },
+    "c1d429fd": {
+      "speaker": "boy-cool",
+      "text": "まえは むねの おとを きいて くれたね。"
+    },
+    "c1f075e5": {
+      "speaker": "vet",
+      "text": "みけちゃんに、やさしく ごあいさつ。"
+    },
+    "c2f42c6c": {
+      "speaker": "boy-wanpaku",
+      "text": "むねの おとを きいてくれて ありがとう。きょうも げんきだよ。"
+    },
+    "c53c2ded": {
+      "speaker": "boy-nonbiri",
+      "text": "ゆっくり やすめたよ。せんせいが おうちまで おくって くれたよ。ありがとう。"
+    },
+    "c5d3cd71": {
+      "speaker": "boy-nonbiri",
+      "text": "いっしょに あそんだ ところを、クレヨンで かいたよ。シールも いれて おくね。"
+    },
+    "c661d86b": {
+      "speaker": "girl-nonbiri",
+      "text": "あつい ひは、ひかげで のんびり するね。やさしく してくれて ありがとう。"
+    },
+    "c702e321": {
+      "speaker": "vet",
+      "text": "わたげちゃんに、やさしく ごあいさつ。"
+    },
+    "c702e6a7": {
+      "speaker": "girl-nonbiri",
+      "text": "あしが ぽかぽかに なったよ。ありがとう。"
+    },
+    "c76f83e0": {
+      "speaker": "girl-genki",
+      "text": "まえは すずしい ばしょで おみずを くれたね。"
+    },
+    "c8208776": {
+      "speaker": "vet",
+      "text": "まりもちゃんを おみおくり しよう。"
+    },
+    "cabb566e": {
+      "speaker": "girl-hakihaki",
+      "text": "せんせいに、おみみの ようすを みて もらって いるよ。"
+    },
+    "cac6ee66": {
+      "speaker": "vet",
+      "text": "ボトルを みどりの めじるしに あわせよう。せんせいと いっしょに ぽとん。"
+    },
+    "cbb51e06": {
+      "speaker": "boy-cool",
+      "text": "だいすきな せんせいたちへ。ずっと なかよしで いてね。ひみつを おしえて あげる。"
+    },
+    "cbeb9f54": {
+      "speaker": "boy-genki",
+      "text": "まえは しずかな ばしょを つくって くれたね。"
+    },
+    "ccb5f8b6": {
+      "speaker": "boy-genki",
+      "text": "はっぱを とってくれて ありがとう。きょうも げんきに あるいたよ。"
+    },
+    "cce5f2a3": {
+      "speaker": "boy-yasashi",
+      "text": "おみみを そっと ふいてくれて ありがとう。きもちよかったよ。"
+    },
+    "cd2b7d32": {
+      "speaker": "boy-genki",
+      "text": "まえは すずしい ばしょで おみずを くれたね。"
+    },
+    "cda115aa": {
+      "speaker": "girl-oshama",
+      "text": "まえは すずしい ばしょで おみずを くれたね。"
+    },
+    "cdb2ba86": {
+      "speaker": "boy-wanpaku",
+      "text": "だいすきな せんせいたちへ。ずっと なかよしで いてね。ひみつを おしえて あげる。"
+    },
+    "cdb66e32": {
+      "speaker": "vet",
+      "text": "あんずちゃんに、やさしく ごあいさつ。"
+    },
+    "cdd4e9e0": {
+      "speaker": "vet",
+      "text": "ひなたちゃんに、やさしく ごあいさつ。"
+    },
+    "cf7ea630": {
+      "speaker": "vet",
+      "text": "おもいでばこを あけたら、おしょうがつの シールが でてきたよ。どうぞ。"
+    },
+    "d0784b63": {
+      "speaker": "girl-oshama",
+      "text": "けだまが なくなって、からだが かるいよ。ありがとう！"
+    },
+    "d08a60f8": {
+      "speaker": "vet",
+      "text": "ピコちゃんに、やさしく ごあいさつ。"
+    },
+    "d1656661": {
+      "speaker": "boy-yasashi",
+      "text": "まえは つめを ととのえて くれたね。"
+    },
+    "d1cd5343": {
+      "speaker": "girl-oshama",
+      "text": "そっと とってくれたから、ちっとも いたく なかったよ。"
+    },
+    "d2103173": {
+      "speaker": "boy-nonbiri",
+      "text": "はるの かぜが、ふわふわの けに きもちいいよ。ありがとう。"
+    },
+    "d2274d97": {
+      "speaker": "girl-nonbiri",
+      "text": "おうちの ひとと、ゆっくり やすんで いるよ。ありがとう。"
+    },
+    "d28d81c1": {
+      "speaker": "boy-nonbiri",
+      "text": "まえは むねの おとを きいて くれたね。"
+    },
+    "d29177f6": {
+      "speaker": "vet",
+      "text": "ありがとうの きもちが たくさん あつまったよ。あたらしい かざりを おくるね。「かざりつけ」で おいてね。"
+    },
+    "d47cf615": {
+      "speaker": "boy-cool",
+      "text": "いっしょに あそんだ ところを、クレヨンで かいたよ。シールも いれて おくね。"
+    },
+    "d4f127a0": {
+      "speaker": "vet",
+      "text": "るりちゃんに、やさしく ごあいさつ。"
+    },
+    "d65560bf": {
+      "speaker": "vet",
+      "text": "るりちゃんを おみおくり しよう。"
+    },
+    "d6b4370c": {
+      "speaker": "vet",
+      "text": "せんせいが おはなしを きいて、しんさつしたよ。このこに よういした おくすりの ふくろを たしかめよう。"
+    },
+    "d6ba6bd9": {
+      "speaker": "boy-genki",
+      "text": "だいすきな せんせいたちへ。ずっと なかよしで いてね。ひみつを おしえて あげる。"
+    },
+    "d7052c25": {
+      "speaker": "vet",
+      "text": "つばきちゃんを おみおくり しよう。"
+    },
+    "d7da9250": {
+      "speaker": "boy-yasashi",
+      "text": "おくすりを たしかめて くれて ありがとう。のんびり すごして いるよ。"
+    },
+    "d8038500": {
+      "speaker": "boy-yasashi",
+      "text": "まえは おくすりを たしかめて くれたね。"
+    },
+    "d80d9c64": {
+      "speaker": "girl-hakihaki",
+      "text": "こんどは、すこし あんしんして いけそう。ありがとう。"
+    },
+    "d85bdecd": {
+      "speaker": "boy-nonbiri",
+      "text": "あつい ひは、ひかげで のんびり するね。やさしく してくれて ありがとう。"
+    },
+    "d92fe874": {
+      "speaker": "vet",
+      "text": "あけまして おめでとう。かがみもちの シールを どうぞ。"
+    },
+    "d9d1aecf": {
+      "speaker": "boy-yasashi",
+      "text": "まえは おみみを きれいに して くれたね。"
+    },
+    "dae37519": {
+      "speaker": "vet",
+      "text": "せんせいが おみみの なかも しらべたよ。このこは、みえる ところを、やわらかい もので そっと ふこう。"
+    },
+    "db84c903": {
+      "speaker": "vet",
+      "text": "ほくちゃんに、やさしく ごあいさつ。"
+    },
+    "db9c4cd2": {
+      "speaker": "girl-hakihaki",
+      "text": "まえは けだまを とって くれたね。"
+    },
+    "dc1dd10c": {
+      "speaker": "girl-oshama",
+      "text": "ゆきあそびの あと、ちゃんと あしを ふいて もらって いるよ。"
+    },
+    "dcd23bbe": {
+      "speaker": "boy-cool",
+      "text": "しずかな ばしょ、うれしかったよ。"
+    },
+    "ddf1db2e": {
+      "speaker": "vet",
+      "text": "むぎちゃんを おみおくり しよう。"
+    },
+    "de4e0ec3": {
+      "speaker": "boy-wanpaku",
+      "text": "ゆきあそびの あと、ちゃんと あしを ふいて もらって いるよ。"
+    },
+    "deabafaf": {
+      "speaker": "boy-wanpaku",
+      "text": "はるの かぜが、ふわふわの けに きもちいいよ。ありがとう。"
+    },
+    "e0bc7121": {
+      "speaker": "vet",
+      "text": "しろちゃんに、やさしく ごあいさつ。"
+    },
+    "e0fdf152": {
+      "speaker": "girl-nonbiri",
+      "text": "つめが ととのって、マットの うえも すいすい あるけるよ。"
+    },
+    "e1ccdba5": {
+      "speaker": "girl-oshama",
+      "text": "すずしい ところで やすんで いるよ。おみず、ありがとう。"
+    },
+    "e2dd7f57": {
+      "speaker": "vet",
+      "text": "かりんちゃんに、やさしく ごあいさつ。"
+    },
+    "e3828f29": {
+      "speaker": "girl-hakihaki",
+      "text": "つめが ととのって、マットの うえも すいすい あるけるよ。"
+    },
+    "e453e254": {
+      "speaker": "vet",
+      "text": "ももちゃんを おみおくり しよう。"
+    },
+    "e475bfc0": {
+      "speaker": "boy-yasashi",
+      "text": "くっつきむしを とってくれて ありがとう。また どんぐりを さがしたよ。"
+    },
+    "e479ce11": {
+      "speaker": "boy-genki",
+      "text": "まえは くっつきむしを とって くれたね。"
+    },
+    "e4d87527": {
+      "speaker": "boy-nonbiri",
+      "text": "ゆきあそびの あと、ちゃんと あしを ふいて もらって いるよ。"
+    },
+    "e557d785": {
+      "speaker": "girl-hakihaki",
+      "text": "むねの おとを きいてくれて ありがとう。きょうも げんきだよ。"
+    },
+    "e6155a97": {
+      "speaker": "girl-yasashi",
+      "text": "せんせいの おてつだい、じょうずだったね。ふわふわに なったよ。"
+    },
+    "e852f710": {
+      "speaker": "girl-yasashi",
+      "text": "ゆきあそびの あと、ちゃんと あしを ふいて もらって いるよ。"
+    },
+    "e8677782": {
+      "speaker": "girl-yasashi",
+      "text": "まえは つめたい あしを ふいて くれたね。"
+    },
+    "e8f962dd": {
+      "speaker": "girl-yasashi",
+      "text": "まえは めぐすりを てつだって くれたね。"
+    },
+    "e953e137": {
+      "speaker": "vet",
+      "text": "はじめての ばしょで どきどき しているね。そっと ちかづいて、あんしん させて あげよう。"
+    },
+    "e96f4187": {
+      "speaker": "girl-nonbiri",
+      "text": "まえは つめたい あしを ふいて くれたね。"
+    },
+    "eb11f12b": {
+      "speaker": "boy-cool",
+      "text": "たんじょうびの おいわいに、あそびに いくね。ケーキの シールを いれて おくね。"
+    },
+    "ed9fdc4d": {
+      "speaker": "vet",
+      "text": "むねの うごきを みせてくれて ありがとう。たいじゅうを はかって、からだの おとも きこう。"
+    },
+    "ee19e97f": {
+      "speaker": "vet",
+      "text": "ひんやり する ばしょを えらんで、おみずを どうぞ。"
+    },
+    "eee248dc": {
+      "speaker": "boy-cool",
+      "text": "まえは めぐすりを てつだって くれたね。"
+    },
+    "eee80453": {
+      "speaker": "boy-cool",
+      "text": "まえは しずかな ばしょを つくって くれたね。"
+    },
+    "eff0430b": {
+      "speaker": "vet",
+      "text": "ふぶきちゃんに、やさしく ごあいさつ。"
+    },
+    "f083deae": {
+      "speaker": "boy-yasashi",
+      "text": "たんじょうびの おいわいに、あそびに いくね。ケーキの シールを いれて おくね。"
+    },
+    "f0acb9a7": {
+      "speaker": "girl-nonbiri",
+      "text": "いっしょに あそんだ ところを、クレヨンで かいたよ。シールも いれて おくね。"
+    },
+    "f0e0572e": {
+      "speaker": "girl-hakihaki",
+      "text": "まえは しずかな ばしょを つくって くれたね。"
+    },
+    "f12d0ab9": {
+      "speaker": "girl-nonbiri",
+      "text": "ブラシ、きもちよかったよ。からだが かるいよ。"
+    },
+    "f2397471": {
+      "speaker": "boy-nonbiri",
+      "text": "けんしん、どきどき したけど たのしかったよ。"
+    },
+    "f2547c7d": {
+      "speaker": "vet",
+      "text": "オレオちゃんに、やさしく ごあいさつ。"
+    },
+    "f27f17d3": {
+      "speaker": "girl-oshama",
+      "text": "つめが ととのって、マットの うえも すいすい あるけるよ。"
+    },
+    "f30a620a": {
+      "speaker": "vet",
+      "text": "くるみちゃんに、やさしく ごあいさつ。"
+    },
+    "f3b1824d": {
+      "speaker": "vet",
+      "text": "あんずちゃんを おみおくり しよう。"
+    },
+    "f482c5ec": {
+      "speaker": "boy-cool",
+      "text": "むねの おとを きいてくれて ありがとう。きょうも げんきだよ。"
+    },
+    "f5730c7c": {
+      "speaker": "boy-genki",
+      "text": "はるの かぜが、ふわふわの けに きもちいいよ。ありがとう。"
+    },
+    "f5b4c0e9": {
+      "speaker": "boy-wanpaku",
+      "text": "まえは つめたい あしを ふいて くれたね。"
+    },
+    "f5c84d26": {
+      "speaker": "girl-nonbiri",
+      "text": "まえは くっつきむしを とって くれたね。"
+    },
+    "f5f36bff": {
+      "speaker": "girl-nonbiri",
+      "text": "まえは すずしい ばしょで おみずを くれたね。"
+    },
+    "f6c87151": {
+      "speaker": "boy-wanpaku",
+      "text": "まえは すずしい ばしょで おみずを くれたね。"
+    },
+    "f89fb726": {
+      "speaker": "girl-genki",
+      "text": "ゆっくり やすめたよ。せんせいが おうちまで おくって くれたよ。ありがとう。"
+    },
+    "f8a8d14b": {
+      "speaker": "boy-yasashi",
+      "text": "そっと とってくれたから、ちっとも いたく なかったよ。"
+    },
+    "fc66cb78": {
+      "speaker": "boy-cool",
+      "text": "あしさきが かるく なったよ。ありがとう！"
+    },
+    "fc753167": {
+      "speaker": "girl-genki",
+      "text": "まえは ふわふわの けを とかして くれたね。"
+    },
+    "fdbd7d92": {
+      "speaker": "boy-nonbiri",
+      "text": "しずかな ばしょ、うれしかったよ。"
+    },
+    "fe35dcbb": {
+      "speaker": "girl-genki",
+      "text": "すずしい ところで やすんで いるよ。おみず、ありがとう。"
+    },
+    "fe9b321a": {
+      "speaker": "vet",
+      "text": "こはくちゃんに、やさしく ごあいさつ。"
+    },
+    "fe9fd963": {
+      "speaker": "girl-hakihaki",
+      "text": "あしさきが かるく なったよ。ありがとう！"
+    },
+    "ff1eef8b": {
+      "speaker": "girl-nonbiri",
+      "text": "ゆっくり やすめたよ。せんせいが おうちまで おくって くれたよ。ありがとう。"
+    },
+    "ff25df8c": {
+      "speaker": "boy-cool",
+      "text": "そっと とってくれたから、ちっとも いたく なかったよ。"
+    }
+  }
+}
